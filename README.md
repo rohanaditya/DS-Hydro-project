@@ -47,5 +47,7 @@ Project is: _in progress_
 
 ## Contact
 Created by [Chiranthana R R](https://www.linkedin.com/in/chiranthana-r-r-232385200/) - feel free to contact me!
+
 Created by [Rohan Aditya Ram](https://www.linkedin.com/in/rohan-aditya-9b4816215/) - feel free to contact me!
+
 Created by [Aditya Mukherjee](https://www.linkedin.com/in/aditya-mukherjee-817a17190/) - feel free to contact me!
