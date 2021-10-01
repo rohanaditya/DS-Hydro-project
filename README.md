@@ -17,7 +17,7 @@ The city is facing an acute water shortage now (June 2019). Chennai is entirely 
 
 ## Technologies
 * Machine Learning - ARIMA model
-* Data analytics and visulaisation
+* Data analytics and visualization
 * Streamlit / Flask
 * Bootstrap
 
