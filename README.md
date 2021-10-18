@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General info
-Chennai also known as Madras is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is the biggest cultural, economic and educational centre of south India.
+Chennai, also known as Madras is the capital of the Indian state of Tamil Nadu. Located on the Coromandel Coast off the Bay of Bengal, it is the biggest cultural, economic and educational centre of south India.
 The city is facing an acute water shortage now (June 2019). Chennai is entirely dependent on ground water resources to meet its water needs. There are four reservoirs in the city, namely, Red Hills, Cholavaram, Poondi and Chembarambakkam, with a combined capacity of 11,057 mcft. These are the major sources of fresh water for the city.
 
 ## Screenshots
@@ -17,7 +17,7 @@ The city is facing an acute water shortage now (June 2019). Chennai is entirely 
 
 ## Technologies
 * Machine Learning - LSTM model
-* Data analytics and visualization
+* Data Analytics and Visualization
 * Streamlit / Flask
 * Bootstrap
 
