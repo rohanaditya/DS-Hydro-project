@@ -32,6 +32,9 @@ The city is facing an acute water shortage now (June 2019). Chennai is entirely 
 
 ## Data Visualization
 
+![Screenshot (689)](https://user-images.githubusercontent.com/80692896/137875093-51582287-af73-46e3-8312-10c6a696fff6.png)
+
+
 ## Features
 List of features ready and TODOs for future development
 * Forecasting model
