@@ -30,6 +30,7 @@ The city is facing an acute water shortage now (June 2019). Chennai is entirely 
 
 ## Code Examples
 
+## Data Visualization
 
 ## Features
 List of features ready and TODOs for future development
