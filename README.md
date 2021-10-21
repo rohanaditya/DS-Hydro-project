@@ -1,7 +1,7 @@
-<div align="center"> 
-# Chennai Water Crisis
-![Example screenshot](./img/screenshot.png)
-</div>
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+<p align="center"> 
+   ## Chennai Water Crisis
+</p>
 ## Table of contents
 * [General info](#general-info)
 * [Our Aim](#AIM)
