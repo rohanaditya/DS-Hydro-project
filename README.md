@@ -29,8 +29,11 @@ We want to solve this one by one and by using all the inshights we can get from 
   The Language used for visualizations and forecasting was Python , and for the the introductory visualizations zoho analytics was used
 
 ## Insights
-In this section we will se some examples of the Insight module
-<img src='./Images/img1.jpg'>
+# In this section we will se some example of the Insight module
+<p align="center">
+  <img src='./Images/img1.jpg'>
+</p>
+# These are some of the visualizations ,used making Python and Matplotlib
 
 
 ## Setup
