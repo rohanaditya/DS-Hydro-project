@@ -17,9 +17,9 @@ In this Repo , we will try to find out the reasons and the why such mismanagment
 
 ## AIM
 We have divided this projects into three major parts
-  * [Insights with Visualizations]
-  * [Creating Forecasting model] 
-  * [Reasons of this water shortage]
+  * Insights with Visualizations
+  * Creating Forecasting model 
+  * Reasons of this water shortage
 We want to solve this one by one and by using all the inshights we can get from the above steps create a comprehensive conclusion on ehy chennai faced water shortage
 
 
