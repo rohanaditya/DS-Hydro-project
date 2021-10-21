@@ -1,7 +1,9 @@
-![banner](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/06/untitled-collage-1561337748.jpg)
-<p align="center"> 
-   ## Chennai Water Crisis
+![banner](https://www.waterlogic.com/fileadmin/user_upload/US_Website/Blog/banner-resolving-to-reduce-water-scarcity.jpg)
+<div>
+<p align="center">
+    # Chennai Water crisis
 </p>
+</div>
 ## Table of contents
 * [General info](#general-info)
 * [Our Aim](#AIM)
