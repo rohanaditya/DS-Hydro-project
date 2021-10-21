@@ -25,9 +25,7 @@ We want to solve this one by one and by using all the inshights we can get from 
 
 
 ## Language
-<p align='center'>
   The Language used for visualizations and forecasting was Python , and for the the introductory visualizations zoho analytics was used
-  </p>
 
 
 ## Setup
