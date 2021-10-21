@@ -30,7 +30,7 @@ We want to solve this one by one and by using all the inshights we can get from 
 
 ## Insights
 In this section we will se some examples of the Insight module
-<img src='./Images/img1'>
+<img src='./Images/img1.jpg>
 
 
 ## Setup
