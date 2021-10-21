@@ -11,7 +11,8 @@ In this Repo , we will try to find out the reasons and the why such mismanagment
 ## Table of contents
 * [Our Aim](#AIM)
 * [Language Used](#Language)
-* [Setup](#setup)
+* [Insights](#Insights)
+* [LSTM-Model](#Insights)
 * [Contact](#contact)
 
 
@@ -26,6 +27,10 @@ We want to solve this one by one and by using all the inshights we can get from 
 
 ## Language
   The Language used for visualizations and forecasting was Python , and for the the introductory visualizations zoho analytics was used
+
+## Insights
+In this section we will se some examples of the Insight module
+<img src='./Images/img1'>
 
 
 ## Setup
