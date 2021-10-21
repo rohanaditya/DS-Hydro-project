@@ -33,6 +33,7 @@ We want to solve this one by one and by using all the inshights we can get from 
 <p align="center">
   <img src='./Images/img1.jpg'>
 </p>
+
 ### These are some of the visualizations ,used making Python and Matplotlib
 
 
