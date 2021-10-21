@@ -40,15 +40,6 @@ We want to solve this one by one and by using all the inshights we can get from 
 ![Chennai Resorviour levels](./Images/img2.jpg) ![Chennai water levels](./Images/img3.jpg)
 
 
-## Setup
-* commands: <pre>
-    <code>
-        python app.py
-    </code>
-</pre>
-
-## Code Examples
-
 ## Data Visualization
 
 ![Screenshot (689)](https://user-images.githubusercontent.com/80692896/137875093-51582287-af73-46e3-8312-10c6a696fff6.png)
@@ -57,15 +48,6 @@ We want to solve this one by one and by using all the inshights we can get from 
 ![Screenshot (692)](https://user-images.githubusercontent.com/80692896/137875370-0cb1026c-841f-4e4c-9f0b-8b76a6c8ced1.png)
 
 
-## Features
-List of features ready and TODOs for future development
-* Forecasting model
-* Dashboard
-* Informative feeds
-
-To-do list:
-* ML model
-* Website
 
 ## Status
 Project is: _in progress_
