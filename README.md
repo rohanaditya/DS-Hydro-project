@@ -37,7 +37,7 @@ We want to solve this one by one and by using all the inshights we can get from 
 ### These are some of the visualizations ,used making Python and Matplotlib , for more [Click Here!](https://github.com/chiru30/DS-Hydro-project/blob/main/Insights/data%20insights-reservoir%20levels.ipynb)
 
 ## LSTM
-![Chennai Resorviour levels]('./Images/img2.jpg) ![Chennai water levels](./Images/img3.jpg)
+![Chennai Resorviour levels](./Images/img2.jpg) ![Chennai water levels](./Images/img3.jpg)
 
 
 ## Setup
