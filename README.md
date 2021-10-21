@@ -10,7 +10,7 @@ In this Repo , we will try to find out the reasons and the why such mismanagment
 
 ## Table of contents
 * [Our Aim](#AIM)
-* [Technologies](#technologies)
+* [Language Used](#Language)
 * [Setup](#setup)
 * [Contact](#contact)
 
@@ -24,10 +24,12 @@ We have divided this projects into three major parts
 We want to solve this one by one and by using all the inshights we can get from the above steps create a comprehensive conclusion on ehy chennai faced water shortage
 
 
-## Language used
+## Language
 <p align='center'>
   The Language used for visualizations and forecasting was Python , and for the the introductory visualizations zoho analytics was used
   </p>
+
+
 ## Setup
 * commands: <pre>
     <code>
