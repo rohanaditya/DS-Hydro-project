@@ -13,6 +13,7 @@ In this Repo , we will try to find out the reasons and the why such mismanagment
 * [Language Used](#Language)
 * [Insights](#Insights)
 * [LSTM-Model](#LSTM)
+* [Data Visualization](#Data Visualization)
 * [Contact](#contact)
 
 
