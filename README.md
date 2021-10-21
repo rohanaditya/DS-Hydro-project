@@ -1,8 +1,7 @@
 ![banner](https://www.waterlogic.com/fileadmin/user_upload/US_Website/Blog/banner-resolving-to-reduce-water-scarcity.jpg)
-<div>
-<p align="center">
-    <h2>Chennai Water crisis</h2>
-</p>
+<div align='center'>
+  <h2>Chennai Water Crisis</h2>
+  </div>
 </div>
 ## Table of contents
 * [General info](#general-info)
