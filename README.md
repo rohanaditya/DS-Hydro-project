@@ -37,7 +37,15 @@ We want to solve this one by one and by using all the inshights we can get from 
 ### These are some of the visualizations ,used making Python and Matplotlib , for more [Click Here!](https://github.com/chiru30/DS-Hydro-project/blob/main/Insights/data%20insights-reservoir%20levels.ipynb)
 
 ## LSTM
-![Chennai Resorviour levels](./Images/img2.jpg) ![Chennai water levels](./Images/img3.jpg)
+Here this first image is the LSTM prediction graph ,of the Chennai rain levels,Click for the [source code](https://github.com/chiru30/DS-Hydro-project/blob/main/LSTM_Rainfall_Level.ipynb)
+<p align="center">
+  <img src='./Images/img2.jpg'>
+</p>
+
+Here this first image is the LSTM prediction graph ,of the Chennai reservoir levels,Click for the [source code](https://github.com/chiru30/DS-Hydro-project/blob/main/LSTM_Reservoir.ipynb)
+<p align="center">
+  <img src='./Images/img3.jpg'>
+</p>
 
 
 ## Data Visualization
