@@ -13,7 +13,7 @@ In this Repo , we will try to find out the reasons and the why such mismanagment
 * [Language Used](#Language)
 * [Insights](#Insights)
 * [LSTM-Model](#LSTM)
-* [Data Visualization](#Data Visualization)
+* [Data Visualization](#Data-Visualization)
 * [Contact](#contact)
 
 
@@ -49,7 +49,7 @@ Here this first image is the LSTM prediction graph ,of the Chennai reservoir lev
 </p>
 
 
-## Data Visualization
+## Data-Visualization
 
 ![Screenshot (689)](https://user-images.githubusercontent.com/80692896/137875093-51582287-af73-46e3-8312-10c6a696fff6.png)
 ![Screenshot (690)](https://user-images.githubusercontent.com/80692896/137875335-e29ca38b-63dd-49c0-aad2-479b069e474c.png)
