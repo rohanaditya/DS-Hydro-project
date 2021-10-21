@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+![banner](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/06/untitled-collage-1561337748.jpg)
 <p align="center"> 
    ## Chennai Water Crisis
 </p>
